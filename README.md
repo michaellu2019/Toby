@@ -1,0 +1,6 @@
+# A Cardboard Robot Named Toby...
+He's a bit of an urban myth from where I come from. After all, most people shouldn't be concerning themselves with the extent to which an Amazon Prime cardboard box can evolve. In the summer of 2018, I decided to push the limits of an unlucky, flimsy, crumbling cardboard box that showed up on my doorstep, and thus, a cardboard robot was born, built from an assortment of trash and duct tape, and of course, that ubiquitous paper brown material that inundates every household under the wave of Amazon Prime consumerism.
+
+The code for the Arduino Mega that controls the robot's movements is provided in this repository. It responds to Bluetooth commands from an Android App called "Annice Brain App" (https://github.com/michaellu2019/Annice-Brain-App) and manipulates the various motors and electronic doohickeys of which this robot is comprised.
+
+<img alt = "Me and a box." src = "https://raw.githubusercontent.com/michaellu2019/Annice-Brain-App/master/app-screenshot.PNG" height = "300px" />
