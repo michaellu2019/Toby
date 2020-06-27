@@ -3,4 +3,4 @@ He's a bit of an urban myth from where I come from. After all, most people shoul
 
 The code for the Arduino Mega that controls the robot's movements is provided in this repository. It responds to Bluetooth commands from an Android App called "Annice Brain App" (https://github.com/michaellu2019/Annice-Brain-App) and manipulates the various motors and electronic doohickeys of which this robot is comprised.
 
-<img alt = "Me and a box." src = "https://raw.githubusercontent.com/michaellu2019/Annice-Brain-App/master/app-screenshot.PNG" height = "300px" />
+<img alt = "Me and a box." src = "https://raw.githubusercontent.com/michaellu2019/Toby/master/toby.png" height = "300px" />
